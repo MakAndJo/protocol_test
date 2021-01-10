@@ -24,7 +24,7 @@
     },
     "protocols": [
       {
-        "name": "electron-deep-linking",
+        "name": "test-protocol",
         "schemes": [
           "test"
         ]
